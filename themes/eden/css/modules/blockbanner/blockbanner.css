@@ -1,0 +1,12 @@
+#header .banner a {
+  display: block;
+  max-height: 165px; }
+
+#header .banner a img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 165px;
+ }
+
+/*# sourceMappingURL=blockbanner.css.map */
