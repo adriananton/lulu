@@ -1,0 +1,20 @@
+
+[{shop_url}] 
+
+Mesajul dvs. către Serviciul Clienţi al {shop_name} 
+
+Msajul dvs a fost trimis cu succes.
+
+MESAJ: {message}
+
+ID COMANDĂ: {order_name}
+
+PRODUS: {product_name}
+
+FIŞIER ATAŞAT: {attached_file} 		 
+
+Vă vom răspunde cât de curând posibil. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

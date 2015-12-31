@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Salut {firstname} {lastname}, 
+
+AVERTIZARE:ați primit un nou jurnal de alertă în back office-ul
+dvs.
+
+Îl puteți verifica în ”INSTRUMENTE”> SECȚIUNEA DIN BACK
+OFFICE-UL DVS ”JURNALE”. 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

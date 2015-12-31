@@ -1,0 +1,20 @@
+
+[{shop_url}] 
+
+Salut {firstname} {lastname}, 
+
+Contul dvs. de oaspete pentru {shop_name} a fost transformat într-un
+cont de client. 
+
+ADRESĂ DE E-MAIL: {email}
+
+PAROLĂ: {passwd} 		 
+
+Va rugam sa fiti precauti cand impartiti aceste date de
+autentificare altor persoane. 
+
+Puteti sa accesati contul de client din magazin: {shop_url} 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

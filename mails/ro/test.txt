@@ -1,0 +1,12 @@
+
+[{shop_url}] 
+
+Bună ziua 
+
+Acesta este O TESTARE DE E-MAIL pentru magazinul dvs.
+
+Dacă puteți citi aceasta, testarea a fost un succes!. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

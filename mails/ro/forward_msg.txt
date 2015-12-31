@@ -1,0 +1,14 @@
+
+[{shop_url}] 
+
+Salut {firstname} {lastname}, 
+
+{employee} dorim să înregistrăm discuția cu dvs. 
+
+ISTORICUL REDUCERILOR: {messages}
+
+{employee} a adăugat {comment} 		 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+

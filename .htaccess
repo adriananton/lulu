@@ -11,7 +11,7 @@ RewriteEngine on
 
 
 #Domain: localhost
-RewriteRule . - [E=REWRITEBASE:/eden/]
+RewriteRule . - [E=REWRITEBASE:/lulu/]
 RewriteRule ^api$ api/ [L]
 
 RewriteRule ^api/(.*)$ %{ENV:REWRITEBASE}webservice/dispatcher.php?url=$1 [QSA,L]
@@ -81,6 +81,6 @@ FileETag none
 </IfModule>
 
 #If rewrite mod isn't enabled
-ErrorDocument 404 /eden/index.php?controller=404
+ErrorDocument 404 /lulu/index.php?controller=404
 
 # ~~end~~ Do not remove this comment, Prestashop will keep automatically the code outside this comment when .htaccess will be generated again

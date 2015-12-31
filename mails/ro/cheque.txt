@@ -1,0 +1,32 @@
+
+[{shop_url}] 
+
+Salut {firstname} {lastname},
+
+Vă mulţumim că aţi cumpărat de la {shop_name}! 
+
+Coamnda dvs cu numărul {order_name} a fost plasată cu succes şi
+va fi EXPEDIATĂ IMEDIAT CE PRIMIM PLATA DVS. 
+
+Ati ales sa platiti cu fila cec. 
+
+Acestea sunt detaliile pentru cec:
+
+CANTITATE: {total_paid}
+
+PLATIBIL CATRE: {cheque_name}
+
+VĂ RUGĂM TRANSMITEȚI PRIN MAIL CECUL DVS LA: {cheque_address} 		 
+
+Aveți posibilitatea de a vă revizui comanda și descărca
+factura de la "istoria comenzii" [{history_url}]
+secțiune a contului dvs. de client, făcând clic pe "Contul meu"
+[{my_account_url}] de pe magazinul nostru. 
+
+Dacă aveți un cont de oaspete, vă puteți urmări comanda prin
+intermediul "urmărirea oaspeților" secția
+[{guest_tracking_url}] din magazinul nostru. 
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+
